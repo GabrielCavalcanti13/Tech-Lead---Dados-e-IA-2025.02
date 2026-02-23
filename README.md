@@ -1,2 +1,2 @@
 # Tech-Lead---Dados-e-IA-2025.02
-Gabriel Cavalcanti de Melo
+Name: Gabriel Cavalcanti de Melo email: gcm3@cesar.school
